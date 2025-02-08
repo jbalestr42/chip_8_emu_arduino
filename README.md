@@ -6,7 +6,7 @@ Even if there is not 16 keys like the chip 8, all keys are not always used.
 To have a bit of control over the keys, there is a system to map a controller key to a chip 8 key for each rom.
 
 It was a bit tricky to fit everything inside the controller but here is the final result.
-![](/images/device.png)
+![](/images/device.jpg)
 ![](/images/device.gif)
 
 ## Hardware
